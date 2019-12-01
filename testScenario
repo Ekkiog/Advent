@@ -1,0 +1,10 @@
+{
+  "probes": [
+    { "x": 58, "y": 59, "values": "101010", "type": "button" },
+    { "x": 58, "y": 62, "values": "101010", "type": "button" },
+    { "x": 58, "y": 65, "values": "101010", "type": "button" },
+    { "x": 65, "y": 59, "values": "101010", "type": "light" },
+    { "x": 65, "y": 62, "values": "101010", "type": "light" },
+    { "x": 65, "y": 65, "values": "101010", "type": "light" }
+  ]
+}
