@@ -1,0 +1,7 @@
+{
+  "probes": [
+    { "x": 60, "y": 62, "values": "00 11 11 00", "type": "button" },
+    { "x": 60, "y": 66, "values": "00 00 11 11", "type": "button" },
+    { "x": 68, "y": 64, "values": "x1 x1 x0 x1", "type": "light" }
+  ]
+}
